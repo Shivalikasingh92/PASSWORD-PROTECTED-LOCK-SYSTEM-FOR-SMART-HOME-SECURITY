@@ -3,3 +3,7 @@ The goal of this project is to design and simulate a password-based locking syst
 to demonstrate its reliability, cost efficiency and user-friendliness. This system is easy to
 understand and operate, yet provides assurance of safety and security for one’s family and
 possessions.
+
+
+
+LInk to tinkercad -> https://www.tinkercad.com/things/bCogictZsbf-iip-project-simulation/editel?sharecode=N9rwq0e70kIsW0ox4ZwHx8CxXj-MFsALoyTqMlTpUMk
