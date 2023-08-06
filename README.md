@@ -6,4 +6,4 @@ possessions.
 
 
 
-LInk to tinkercad -> https://www.tinkercad.com/things/bCogictZsbf-iip-project-simulation/editel?sharecode=N9rwq0e70kIsW0ox4ZwHx8CxXj-MFsALoyTqMlTpUMk
+Link to tinkercad -> https://www.tinkercad.com/things/bCogictZsbf-iip-project-simulation/editel?sharecode=N9rwq0e70kIsW0ox4ZwHx8CxXj-MFsALoyTqMlTpUMk
